@@ -8,3 +8,5 @@ const props = defineProps(["tarefasPendentes"]);
     <p>Você possui {{ props.tarefasPendentes }} tarefas pendentes</p>
   </header>
 </template>
+
+<style scoped> </style>
