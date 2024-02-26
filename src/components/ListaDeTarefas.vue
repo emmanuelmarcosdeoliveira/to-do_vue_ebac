@@ -1,6 +1,7 @@
 <script setup>
 const props = defineProps(["tarefas"]);
 </script>
+
 <template>
   <ul class="list-group mt-4">
     <li class="list-group-item" v-for="tarefa in props.tarefas">
