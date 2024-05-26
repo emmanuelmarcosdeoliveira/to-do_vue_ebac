@@ -14,7 +14,7 @@
 ![Static Badge](https://img.shields.io/badge/--path?style=plastic&logo=vite&logoColor=%239566FE&logoSize=auto&label=Vite&labelColor=black&color=%239566FE)
 ![Fork](https://img.shields.io/github/forks/emmanuelmarcosdeoliveira/to-do_vue_ebac?style=plastic)
 
-_Esse Projeto foi desenvolvido para a prática de Vite, como base foi desenvolvido uma **lista de tarefas** onde temos a opção de cadastar uma nova tarefa e também fazer um filtro de acordo com a sua condição: **todas as Tarefas**, **Pendentes** e **Finalizadas**_
+_Esse Projeto foi desenvolvido para a prática de Vite, foi desenvolvido uma **lista de tarefas** onde temos a opção de cadastar uma nova tarefa e também fazer um filtro de acordo com a sua condição: **todas as Tarefas**, **Pendentes** e **Finalizadas**_
 
 <!-- Menu -->
 
@@ -119,7 +119,9 @@ http://localhost:5173
 <h3 align="center"> Imagem de demostração do Projeto
 
 </br>
+
 <img src="./public/print-project.png" alt="Print do Projeto"/>
+
 </h3>
 
 <!-- Video de Demostraçào -->
