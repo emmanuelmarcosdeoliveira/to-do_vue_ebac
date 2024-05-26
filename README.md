@@ -14,7 +14,8 @@
 ![Static Badge](https://img.shields.io/badge/--path?style=plastic&logo=vite&logoColor=%239566FE&logoSize=auto&label=Vite&labelColor=black&color=%239566FE)
 ![Fork](https://img.shields.io/github/forks/emmanuelmarcosdeoliveira/to-do_vue_ebac?style=plastic)
 
-_Esse Projeto foi desenvolvido para a prática de Vite, como base foi desenvolvido uma **lista de tarefas** onde temos a opção de cadastar uma nova tarefa e também fazer um filtro de acordo com a sua condição: **todas as Tarefas**, **Pendentes** e **Finalizadas**_
+
+_Esse Projeto foi desenvolvido para a prática de Vite, foi desenvolvido uma **lista de tarefas** onde temos a opção de cadastar uma nova tarefa e também fazer um filtro de acordo com a sua condição: **todas as Tarefas**, **Pendentes** e **Finalizadas**_
 
 <!-- Menu -->
 
@@ -83,6 +84,7 @@ Dentro do nosso **VSCode** vamos abrir o nosso **terminal**. Temos que baixar as
 **1. Instalando as dependências**<br>
 <sub>Command Line</sub>
 
+
 ```bash
 npm install
 ```
@@ -97,6 +99,7 @@ npm install
 <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/> -->
 <br>
 
+
 ## Usage
 
 **2. Inicie o servidor de Desenvolvimento com o seguinte comando dentro do Terminal**<br>
@@ -108,8 +111,10 @@ npm run dev
 
 <br>
 
+
 **3. Será aberto uma janela no seu Navegador com o projeto sendo executado.
 Caso isso não ocorra digite na barra de endereço do navegador**
+
 
 ```bash
 http://localhost:5173
@@ -119,6 +124,7 @@ http://localhost:5173
 <h3 align="center"> Imagem de demostração do Projeto
 
 </br>
+
 <img src="./public/print-project.png" alt="Print do Projeto"/>
 </h3>
 
