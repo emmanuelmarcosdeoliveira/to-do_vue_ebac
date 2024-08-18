@@ -1,7 +1,5 @@
 <!-- Banner de Apresentação -->
- <img src="./public/Emmanuel M. Oliveira.gif">
-<br>
-<br>
+![Banner](https://github.com/emmanuelmarcosdeoliveira/servidor-estatico/blob/main/github/emmanuelOliveira.gif)
 
 <!-- Titulo do Projeto -->
 
